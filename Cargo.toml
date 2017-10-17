@@ -1,0 +1,6 @@
+[package]
+name = "wasmr"
+version = "0.1.0"
+authors = ["bobrd <eugene.bober@gmail.com>"]
+
+[dependencies]
